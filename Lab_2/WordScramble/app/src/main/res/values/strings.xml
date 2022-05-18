@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WordScramble</string>
+    <string name="main_label">Word Scramble</string>
+    <string name="your_word_label">Your Word:</string>
+    <string name="input_field_hint">Write your answer</string>
+    <string name="check">Check</string>
+    <string-array name="words">
+        <item>spice</item>
+        <item>must</item>
+        <item>flow</item>
+        <item>never</item>
+        <item>gonna</item>
+        <item>give</item>
+        <item>you</item>
+        <item>up</item>
+        <item>monkey</item>
+        <item>banana</item>
+        <item>tantrum</item>
+        <item>affable</item>
+    </string-array>
+</resources>
