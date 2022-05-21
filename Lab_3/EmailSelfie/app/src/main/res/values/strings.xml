@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">EmailSelfie</string>
+    <string name="authorities">com.example.emailselfie</string>
+    <string name="take_a_picture_button_label">Take a picture</string>
+    <string name="send">Send</string>
 </resources>
