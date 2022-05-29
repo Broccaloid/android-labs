@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="clear_btn">Clear</string>
+    <string name="remove_recipe_btn">Remove Recipe</string>
+    <string name="add_recipe_btn">Add Recipe</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+</resources>
